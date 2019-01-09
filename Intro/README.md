@@ -1,1 +1,1 @@
-# BootstrapDay
+Pricing page exercises
